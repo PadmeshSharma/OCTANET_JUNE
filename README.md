@@ -7,14 +7,14 @@ WEbsite pic
 
 #### SOCIAL MOM
 
-* **It is found that 80% of all new moms feels lonely. 100% of them have questions on motherhood. They need to connect with other moms, to exchange tips, share struggles, and just go for a walk, or to the park for a little mental relief. 
+* **It is found that 80% of all new moms feels lonely. 100% of them have questions on motherhood. They need to connect with other moms, to exchange tips, share struggles, and just go for a walk, or to the park for a little mental relief.**
 
-* **SOCIAL MOM is a place where moms would encourage one another. An uplifting network of moms where we can cry together and also celebrate together. Where we can ask all our questions freely. I mean ALL of them! And finally, somewhere to go when we need relevant information, expert’s resources, to guide us in our wonderful motherhood journey!
+* **SOCIAL MOM is a place where moms would encourage one another. An uplifting network of moms where we can cry together and also celebrate together. Where we can ask all our questions freely. I mean ALL of them! And finally, somewhere to go when we need relevant information, expert’s resources, to guide us in our wonderful motherhood journey!**
 
-* **We are all from different backgrounds but what unites us is our will to raise amazing children. 
+* **We are all from different backgrounds but what unites us is our will to raise amazing children.** 
 
 
-* **Social Mom’s features include:
+* **Social Mom’s features include:**
 
 -  Meet other local moms and expecting mothers like you
 -  Connect with other moms just like you
