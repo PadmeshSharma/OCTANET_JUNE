@@ -1,5 +1,4 @@
-# OCTANET_JUNE
-## Web Development Internship
+# OCTANET_JUNE : Web Development Summer Internship
 
 ### Task-1: TO CREATE A LANDING PAGE
 Video 
