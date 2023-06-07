@@ -16,14 +16,14 @@ WEbsite pic
 
 * Social Mom’s features include:
 
-• Meet other local moms and expecting mothers like you
-• Connect with other moms just like you
-• Build your local community of moms
-• Share photos, videos and updates of your journey through motherhood
-• Find activities with local moms and your families
-• Get notified when friends react and comment on your posts
-• Find mothers from your area with children the same age as yours
-• Discuss the ups and downs of motherhood with other moms
-• Strengthen your local community and make new friends
-• Help other moms and be helped by your Social Mom’s community
-• Find local deals
+- • Meet other local moms and expecting mothers like you
+- • Connect with other moms just like you
+- • Build your local community of moms
+- • Share photos, videos and updates of your journey through motherhood
+- • Find activities with local moms and your families
+- • Get notified when friends react and comment on your posts
+- • Find mothers from your area with children the same age as yours
+- • Discuss the ups and downs of motherhood with other moms
+- • Strengthen your local community and make new friends
+- • Help other moms and be helped by your Social Mom’s community
+- • Find local deals
