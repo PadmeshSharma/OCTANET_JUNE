@@ -1,8 +1,7 @@
 # OCTANET_JUNE : Web Development Summer Internship
 
 ### Task-1: TO CREATE A LANDING PAGE
-Video 
-WEbsite pic
+
 
 ## SOCIAL MOM ![image](https://github.com/PadmeshSharma/OCTANET_JUNE/assets/100578426/65eff179-95e0-4d7c-897a-440ae12472b4)
 
