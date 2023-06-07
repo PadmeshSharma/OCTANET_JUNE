@@ -6,6 +6,7 @@ Video
 WEbsite pic
 
 #### SOCIAL MOM
+![image](https://github.com/PadmeshSharma/OCTANET_JUNE/assets/100578426/65eff179-95e0-4d7c-897a-440ae12472b4)
 
 * **It is found that 80% of all new moms feels lonely. 100% of them have questions on motherhood. They need to connect with other moms, to exchange tips, share struggles, and just go for a walk, or to the park for a little mental relief.**
 
