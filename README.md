@@ -26,3 +26,5 @@ WEbsite pic
 -  Strengthen your local community and make new friends
 -  Help other moms and be helped by your Social Mom’s community
 -  Find local deals
+* **WEBSITE OUTLOOK*
+![image](https://github.com/PadmeshSharma/OCTANET_JUNE/assets/100578426/de96d2e2-3c6c-4381-8cf5-15b66d6ce0c0)
