@@ -1,0 +1,110 @@
+<style>
+  body {
+    background-color: #FDF5E6; /* Light Cream Color */
+  }
+</style>
+
+/* Reset default styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body styles */
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styles */
+  header {
+    
+    padding: 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+
+
+/* Hero section styles */
+#hero {
+    background-image: url("C:\Users\PADMESH SHARMA\Desktop\Task 1");
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hero-content {
+    text-align: center;
+    color: #e1326f;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add a subtle text shadow */
+  }
+  
+  
+  /* Features section styles */
+#features {
+    padding: 0 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .feature {
+    width: 30%;
+    padding: 20px;
+    background-color: #9fe6f0;
+    border-radius: 4px;
+    box-shadow: 0 2px 6px rgba(200, 14, 14, 0.1);
+  }
+  
+  .feature h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .feature p {
+    font-size: 16px;
+    color: rgb(243, 131, 211); /* Change text color to purple */
+  }
+  
+  /* Responsive styles */
+  @media screen and (max-width: 768px) {
+    .container {
+      flex-wrap: wrap;
+    }
+  
+    .feature {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  }
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("Mom.jpg");
+    background-size:contain;
+    background-position: center;
+  }
+  
+
