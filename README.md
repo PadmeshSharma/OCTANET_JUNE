@@ -32,7 +32,7 @@
 https://github.com/PadmeshSharma/OCTANET_JUNE/assets/100578426/87f613ae-071c-4f9e-9070-6400e7768c3a
 
 
-### Task-2: TO DO LIST
+## Task-2: TO DO LIST
 
 ## TO DO LIST ![image](https://github.com/PadmeshSharma/OCTANET_JUNE/assets/100578426/59ef1767-9533-4898-84da-af8531e912b4)
 
