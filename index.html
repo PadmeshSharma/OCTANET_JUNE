@@ -1,56 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <style>
-        body {
-          background-color: #FDF5E6; /* Light Cream Color */
-        }
-      </style>
-      
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Social Mom</title>
-  <link rel="stylesheet" href="styles.css">
+  <title>To-Do List</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-  <header>
-    <nav>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </nav>
-  </header>
-
-  <section id="hero">
-    <div class="hero-content">
-      <h1>Social Mom</h1>
-      <p>Connect with other moms around the world</p>
-      <a href="#" class="btn">Get Started</a>
-    </div>
-  </section>
-
-  <section id="features">
-    <div class="container">
-      <div class="feature">
-        <h2>Join a Community</h2>
-        <p>Connect and share experiences with other moms in our supportive community.</p>
-      </div>
-      <div class="feature">
-        <h2>Discover New Resources</h2>
-        <p>Access a wide range of articles, tips, and advice to help you on your motherhood journey.</p>
-      </div>
-      <div class="feature">
-        <h2>Plan Playdates</h2>
-        <p>Arrange meetups and playdates with moms and their kids in your area.</p>
-      </div>
-    </div>
-  </section>
-
-  <footer>
-    <p>&copy; 2023 Social Mom. All rights reserved.</p>
-  </footer>
+  <div class="container">
+    <h1>To-Do List</h1>
+    <form id="task-form">
+      <input type="text" id="task-input" placeholder="Enter a task">
+      <button type="submit">Add Task</button>
+    </form>
+    <ul id="task-list">
+      <!-- Task items will be dynamically added here -->
+    </ul>
+  </div>
+  <script src="script.js"></script>
 </body>
 </html>
