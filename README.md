@@ -37,7 +37,7 @@ https://github.com/PadmeshSharma/OCTANET_JUNE/assets/100578426/87f613ae-071c-4f9
 ## TO DO LIST ![image](https://github.com/PadmeshSharma/OCTANET_JUNE/assets/100578426/59ef1767-9533-4898-84da-af8531e912b4)
 
 
-* **TO DO LIST is a list of tasks you need to complete or things you want to do. Most typically, they're organised in order of priority. **
+* **TO DO LIST is a list of tasks you need to complete or things you want to do. Most typically, they're organised in order of priority.**
 
 * **By keeping such a list, you make sure that your tasks are written down all in one place so you don't forget anything important. And by prioritizing tasks, you plan the order in which you'll do them, so that you can tell what needs your immediate attention, and what you can leave until later.**
 
@@ -55,4 +55,6 @@ https://github.com/PadmeshSharma/OCTANET_JUNE/assets/100578426/87f613ae-071c-4f9
 -  Help other moms and be helped by your Social Mom’s community
 -  Find local deals
 * **WEBSITE OUTLOOK**
+* ![image](https://github.com/PadmeshSharma/OCTANET_JUNE/assets/100578426/64fc2926-21c2-4e70-b3da-6a838e9c6f70)
+
 
