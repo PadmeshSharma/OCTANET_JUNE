@@ -64,7 +64,8 @@ https://github.com/PadmeshSharma/OCTANET_JUNE/assets/100578426/42d4773b-e1e0-451
 
 # Task-3: WEBSITE CLONE
 
-## HOTSTAR CLONE![image](https://github.com/PadmeshSharma/OCTANET_JUNE/assets/100578426/59ef1767-9533-4898-84da-af8531e912b4)
+## HOTSTAR CLONE![image](https://github.com/PadmeshSharma/OCTANET_JUNE/assets/100578426/ed7fb899-570f-4c4d-8b47-78f4889abbed)
+
 
 
 * **Hotstar is an OTT platform where you can watch movies, web series, and tv series.**
